@@ -84,22 +84,10 @@ echo getConstant('script_body');
 	include(_F_INCLUDES . DS . "tth_menu_sm.php");
 	?>
 </div>
-<!-- / #wrapper -->
 <a href="javascript:void(0)" title="Lên đầu trang" id="go-top"><i class="fa fa-angle-up"></i></a>
 <div id="_loading"></div>
 <div id="_order" class="modal" style="display: none"></div>
-	<!--<div class="quick-call-button"></div>
-	<div class="call-now-button" style="left: 41px; bottom: 214px;">
-		<div>
-			<p class="call-text"><a href="<?/*=HOME_URL_LANG*/?>/<?/*=$lgTxt_slug_cart*/?>" title="BOOK NOW">BOOK NOW</a></p>
-			<a href="<?/*=HOME_URL_LANG*/?>/<?/*=$lgTxt_slug_cart*/?>" title="BOOK NOW">
-				<div class="quick-alo-ph-circle active"></div>
-				<div class="quick-alo-ph-circle-fill active"></div>
-				<div class="quick-alo-ph-img-circle shake"></div>
-				<span id="count_cart"><?php /*if(isset($_SESSION['cart'])) echo count($_SESSION['cart']); else echo '0';*/?></span>
-			</a>
-		</div>
-	</div>-->
+	
 	<div class="quick-call-button"></div>
 	<div class="call-now-button" style="left: 41px; bottom: 214px;">
 		<div>
