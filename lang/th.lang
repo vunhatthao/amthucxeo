@@ -1,0 +1,102 @@
+<?php
+// Page
+	$lgTxt_lang                           = 'th';
+	$lgTxt_social                         = 'ลิงค์เครือข่ายสังคม';
+	$lgTxt_social_face                    = 'ลิงก์ Facebook';
+	$lgTxt_update                         = 'ข้อมูลกำลังอยู่ระหว่างการปรับปรุง ... โปรดกลับมาใหม่ในภายหลัง!';
+    $lgTxt_error_page                     = 'หน้าข้อผิดพลาด';
+    $lgTxt_page404                        = 'กรุณาลิงค์ไม่มีอยู่';
+    $lgTxt_page404_click                  = 'คลิก';
+    $lgTxt_page404_back                   = 'เพื่อกลับไป';
+	$lgTxt_article_plus                   = 'Other article:';
+	$lgTxt_article_other                  = 'Same category:';
+	$lgTxt_service_other                  = 'Other services:';
+	$lgTxt_activities_other               = 'Other sectors:';
+	$lgTxt_news_other                     = 'ข่าวอื่น ๆ:';
+	$lgTxt_product_other                  = 'All Products';
+	$lgTxt_product_hot                    = 'Typical products';
+	$lgTxt_title_news_hot                 = 'Typical News';
+
+	$lgTxt_detail                           = 'ดูรายละเอียด';
+	$lgTxt_detail_all                       = 'ดูทั้งหมด';
+	$lgTxt_red_more                         = 'อ่านเพิ่มเติม';
+	$lgTxt_post_date                        = 'วัน: ';
+	$lgTxt_post_views                       = 'ดู: ';
+
+    $lx_dac_biet                            = 'เมนูเด่น';
+
+	$lgTxt_title_others1                    = 'โครงการอื่น ๆ';
+	$lgTxt_title_others2                    = 'ข่าวอื่น ๆ';
+	$lgTxt_title_others3                    = 'บทความอื่น ๆ';
+	$lgTxt_title_others4                    = 'ผลิตภัณฑ์อื่น';
+	$lgTxt_title_others5                    = 'ภาพอื่น ๆ';
+
+	$lgTxt_unit_price                   = ' VNĐ';
+	$lgTxt_add_cart                    = ' Order';
+	$lgTxt_slug_cart                      = 'order';
+	$lgTxt_menu_carts                     = 'Menu selected';
+	$lgTxt_menu_cart                      = 'Order';
+
+	$lgTxt_name_book                      = 'Book now';
+	$lgTxt_name_order                     = 'Order Delivery';
+	$lgTxt_name_delivery                  = 'Delivery';
+
+	$lgTxt_cart_img                      = 'Image';
+	$lgTxt_cart_product                  = 'Product';
+	$lgTxt_cart_unit                     = 'Unit price';
+	$lgTxt_cart_number                   = 'Number';
+	$lgTxt_cart_money                    = 'Money ';
+	$lgTxt_cart_cancel                   = 'Cancel';
+	$lgTxt_cart_contact                  = 'Contact ';
+	$lgTxt_cart_empty                    = 'Empty';
+	$lgTxt_cart_update                   = 'Update ';
+	$lgTxt_cart_continue                 = 'Continue';
+	$lgTxt_title_newspaper				 = 'Newspaper';
+	$lgTxt_title_typicaldt				 = 'CÔNG TRÌNH';
+	$lgTxt_title_pro				     = 'SẢN PHẨM';
+	$lgTxt_title_sear				     = 'KẾT QUẢ TÌM KIẾM';
+
+
+// Menu
+	$lgTxt_menu_home                      = 'บ้าน';
+	$lgTxt_menu_contact                   = 'ติดต่อ';
+	$lgTxt_slug_contact                   = 'contact';
+	$lgTxt_menu_search                    = 'ค้นหา';
+	$lgTxt_slug_search                    = 'tim-kiem';
+	$lgTxt_title_news                     = 'ข่าวสารและกิจกรรม';
+
+
+	$lgTxt_title_search                     = 'ค้นหา';
+	$lgTxt_input_search                     = 'ค้นหา...';
+	$lgTxt_title_news_hot                   = 'ข่าวล่าสุด';
+
+
+// Contact
+	$txtContact_titleForm   = 'Inquiries - Feedback';
+	$txtContact_name		= 'ชื่อเต็ม';
+	$txtContact_address	    = 'ที่อยู่';
+	$txtContact_email		= 'อีเมล์';
+	$txtContact_fone		= 'โทรศัพท์';
+	$txtContact_content	    = 'ขอร้อง';
+	$txtContact_reset_s	    = 'รีเซ็ต';
+	$txtContact_button_s	= 'ส่ง';
+	$txtContact_sendOk		= 'คำขอของคุณถูกส่งเรียบร้อยแล้วเราจะติดต่อคุณกลับทันที';
+	$txtContact_sendDie	    = 'ไม่สามารถส่งจดหมายสำหรับข้อผิดพลาดเล็กน้อยจากฝั่งเซิร์ฟเวอร์';
+
+	$txtOrder_sendOk		= 'ส่งคำขอของคุณเรียบร้อยแล้วเราจะติดต่อคุณโดยเร็วที่สุด ขอบคุณมาก';
+
+//Booking
+	$lgTxt_title_book                     = 'จองตอนนี้';
+	$lgTxt_booking_name		              = 'ชื่อเต็ม';
+	$lgTxt_booking_email		          = 'E-mail';
+	$lgTxt_booking_fone		              = 'เบอร์โทรศัพท์';
+	$lgTxt_booking_quantity               = 'จำนวนคน';
+	$lgTxt_booking_begin                  = 'วันที่มาถึง';
+	$lgTxt_booking_time                  = 'เวลา';
+	$lgTxt_booking_submit                 = 'ส่ง';
+	$lgTxt_place                          = '-- เลือก --';
+
+	$txtEnter_field		    = 'ต้องป้อนข้อมูลในฟิลด์นี้';
+	$txtEnter_email		    = 'ที่อยู่อีเมลที่ไม่ถูกต้อง.';
+	$txtEnter_tell		    = 'หมายเลขโทรศัพท์ไม่ถูกต้อง';
+	$txtEnter_number		= 'หมายเลขไม่ถูกต้อง';

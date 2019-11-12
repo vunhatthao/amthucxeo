@@ -1,0 +1,103 @@
+<?php
+// Page
+	$lgTxt_lang                           = 'kr';
+	$lgTxt_social                         = '소셜 네트워크 링크';
+	$lgTxt_social_face                    = 'Liên kết Facebook';
+	$lgTxt_update                         = '데이터가 혁신 중입니다 ... 나중에 다시 오십시오!';
+    $lgTxt_error_page                     = '오류 페이지';
+    $lgTxt_page404                        = '링크가 존재하지 않습니다.';
+    $lgTxt_page404_click                  = '딸깍 하는 소리';
+    $lgTxt_page404_back                   = 'to return';
+	$lgTxt_article_plus                   = '다른 기사:';
+	$lgTxt_article_other                  = 'Same category:';
+	$lgTxt_service_other                  = 'Other services:';
+	$lgTxt_activities_other               = 'Other sectors:';
+	$lgTxt_news_other                     = '기타 뉴스:';
+	$lgTxt_product_other                  = 'All Products';
+	$lgTxt_product_hot                    = 'Typical products';
+	$lgTxt_title_news_hot                 = 'Typical News';
+
+	$lgTxt_detail                           = '자세히보기';
+	$lgTxt_detail_all                       = '모두보기';
+	$lgTxt_red_more                         = '더 많은 것을 읽으십시오';
+	$lgTxt_post_date                        = '게시일: ';
+	$lgTxt_post_views                       = '전망: ';
+
+
+    $lx_dac_biet                            = '특별 요리';
+
+	$lgTxt_title_others1                    = '기타 프로젝트';
+	$lgTxt_title_others2                    = '기타 뉴스';
+	$lgTxt_title_others3                    = '기타 기사';
+	$lgTxt_title_others4                    = '다른 제품들';
+	$lgTxt_title_others5                    = '다른 이미지';
+
+	$lgTxt_unit_price                   = ' VNĐ';
+	$lgTxt_add_cart                    = ' Order';
+	$lgTxt_slug_cart                      = 'order';
+	$lgTxt_menu_carts                     = 'Menu selected';
+	$lgTxt_menu_cart                      = 'Order';
+
+	$lgTxt_name_book                      = 'Book now';
+	$lgTxt_name_order                     = 'Order Delivery';
+	$lgTxt_name_delivery                  = 'Delivery';
+
+	$lgTxt_cart_img                      = 'Image';
+	$lgTxt_cart_product                  = 'Product';
+	$lgTxt_cart_unit                     = 'Unit price';
+	$lgTxt_cart_number                   = 'Number';
+	$lgTxt_cart_money                    = 'Money ';
+	$lgTxt_cart_cancel                   = 'Cancel';
+	$lgTxt_cart_contact                  = 'Contact ';
+	$lgTxt_cart_empty                    = 'Empty';
+	$lgTxt_cart_update                   = 'Update ';
+	$lgTxt_cart_continue                 = 'Continue';
+	$lgTxt_title_newspaper				 = 'Newspaper';
+	$lgTxt_title_typicaldt				 = 'CÔNG TRÌNH';
+	$lgTxt_title_pro				     = 'SẢN PHẨM';
+	$lgTxt_title_sear				     = 'KẾT QUẢ TÌM KIẾM';
+
+
+// Menu
+	$lgTxt_menu_home                      = '홈페이지';
+	$lgTxt_menu_contact                   = '접촉';
+	$lgTxt_slug_contact                   = 'contact';
+	$lgTxt_menu_search                    = '빠른 검색';
+	$lgTxt_slug_search                    = 'tim-kiem';
+	$lgTxt_title_news                     = 'News - Events';
+
+
+	$lgTxt_title_search                     = '검색';
+	$lgTxt_input_search                     = '검색...';
+	$lgTxt_title_news_hot                   = 'Tin tức mới nhất';
+
+
+// Contact
+	$txtContact_titleForm   = '문의 - 의견';
+	$txtContact_name		= '성명';
+	$txtContact_address	    = '주소';
+	$txtContact_email		= '이메일';
+	$txtContact_fone		= '전화';
+	$txtContact_content	    = '의뢰';
+	$txtContact_reset_s	    = '다시 놓기';
+	$txtContact_button_s	= '보내다';
+	$txtContact_sendOk		= '귀하의 요청이 성공적으로 보내졌으며, 우리는 즉시 귀하에게 연락을 취할 것입니다.';
+	$txtContact_sendDie	    = '서버 측에서 몇 가지 오류에 대한 메일을 보낼 수 없습니다.';
+
+	$txtOrder_sendOk		= '귀하의 요청이 성공적으로 제출되었으므로 가능한 한 빨리 연락 드리겠습니다. 정말 고맙습니다';
+
+//Booking
+	$lgTxt_title_book                     = '지금 예약';
+	$lgTxt_booking_name		              = '성명';
+	$lgTxt_booking_email		          = '이메일';
+	$lgTxt_booking_fone		              = '전화';
+	$lgTxt_booking_quantity               = '인원수';
+	$lgTxt_booking_begin                  = '날짜 설정';
+	$lgTxt_booking_time                  = '시각';
+	$lgTxt_booking_submit                 = '보내다';
+	$lgTxt_place                          = '-- 고르다 --';
+
+	$txtEnter_field		    = '이 입력란은 필수 입력란입니다.';
+	$txtEnter_email		    = '잘못된 이메일 주소.';
+	$txtEnter_tell		    = '유효하지 않은 전화 번호.';
+	$txtEnter_number		= '잘못된 번호.';

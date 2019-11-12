@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Constantia';
+    src: url('../fonts/Constantia-Bold.woff2') format('woff2'),
+        url('../fonts/Constantia-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+

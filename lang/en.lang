@@ -1,0 +1,102 @@
+<?php
+// Page
+	$lgTxt_lang                           = 'en';
+	$lgTxt_social                         = 'Social network link';
+	$lgTxt_social_face                    = 'Liên kết Facebook';
+	$lgTxt_update                         = 'The data are in the process of renovation ... Please come back later!';
+    $lgTxt_error_page                     = 'Error page';
+    $lgTxt_page404                        = 'Link does not exist, please';
+    $lgTxt_page404_click                  = 'click';
+    $lgTxt_page404_back                   = 'to return';
+	$lgTxt_article_plus                   = 'Other article:';
+	$lgTxt_article_other                  = 'Same category:';
+	$lgTxt_service_other                  = 'Other services:';
+	$lgTxt_activities_other               = 'Other sectors:';
+	$lgTxt_news_other                     = 'Other news:';
+	$lgTxt_product_other                  = 'All Products';
+	$lgTxt_product_hot                    = 'Typical products';
+	$lgTxt_title_news_hot                 = 'Typical News';
+
+	$lgTxt_detail                           = 'View detail';
+	$lgTxt_detail_all                       = 'View all';
+	$lgTxt_red_more                         = 'Read more';
+	$lgTxt_post_date                        = 'Posted date: ';
+	$lgTxt_post_views                       = 'View: ';
+
+    $lx_dac_biet                            = 'Hot';
+
+	$lgTxt_title_others1                    = 'Other projects';
+	$lgTxt_title_others2                    = 'Other news';
+	$lgTxt_title_others3                    = 'Other articles';
+	$lgTxt_title_others4                    = 'Other products';
+	$lgTxt_title_others5                    = 'Other images';
+
+	$lgTxt_unit_price                   = ' VNĐ';
+	$lgTxt_add_cart                    = ' Order';
+	$lgTxt_slug_cart                      = 'order';
+	$lgTxt_menu_carts                     = 'Menu selected';
+	$lgTxt_menu_cart                      = 'Order';
+
+	$lgTxt_name_book                      = 'Book now';
+	$lgTxt_name_order                     = 'Order Delivery';
+	$lgTxt_name_delivery                  = 'Delivery';
+
+	$lgTxt_cart_img                      = 'Image';
+	$lgTxt_cart_product                  = 'Product';
+	$lgTxt_cart_unit                     = 'Unit price';
+	$lgTxt_cart_number                   = 'Number';
+	$lgTxt_cart_money                    = 'Money ';
+	$lgTxt_cart_cancel                   = 'Cancel';
+	$lgTxt_cart_contact                  = 'Contact ';
+	$lgTxt_cart_empty                    = 'Empty';
+	$lgTxt_cart_update                   = 'Update ';
+	$lgTxt_cart_continue                 = 'Continue';
+	$lgTxt_title_newspaper				 = 'Newspaper';
+	$lgTxt_title_typicaldt				 = 'CÔNG TRÌNH';
+	$lgTxt_title_pro				     = 'SẢN PHẨM';
+	$lgTxt_title_sear				     = 'KẾT QUẢ TÌM KIẾM';
+
+
+// Menu
+	$lgTxt_menu_home                      = 'Home';
+	$lgTxt_menu_contact                   = 'Contact';
+	$lgTxt_slug_contact                   = 'contact';
+	$lgTxt_menu_search                    = 'Quick search';
+	$lgTxt_slug_search                    = 'tim-kiem';
+	$lgTxt_title_news                     = 'News - Events';
+
+
+	$lgTxt_title_search                     = 'Quick search';
+	$lgTxt_input_search                     = 'Quick search...';
+	$lgTxt_title_news_hot                   = 'Tin tức mới nhất';
+
+
+// Contact
+	$txtContact_titleForm   = 'Inquiries - Feedback';
+	$txtContact_name		= 'Full name';
+	$txtContact_address	    = 'Address';
+	$txtContact_email		= 'Email';
+	$txtContact_fone		= 'Tel';
+	$txtContact_content	    = 'Request';
+	$txtContact_reset_s	    = 'Reset';
+	$txtContact_button_s	= 'Send';
+	$txtContact_sendOk		= 'Your request has been sent successfully, we will promptly contact you back.';
+	$txtContact_sendDie	    = 'Unable to send mail for a few errors from the server side.';
+
+	$txtOrder_sendOk		= 'Your request has been successfully submitted, we will promptly contact you as soon as possible. Thank you so much';
+
+//Booking
+	$lgTxt_title_book                     = 'BOOK NOW';
+	$lgTxt_booking_name		              = 'Full Name';
+	$lgTxt_booking_email		          = 'E-mail';
+	$lgTxt_booking_fone		              = 'Phone';
+	$lgTxt_booking_quantity               = 'Number of people';
+	$lgTxt_booking_begin                  = 'Date set';
+	$lgTxt_booking_time                  = 'Time';
+	$lgTxt_booking_submit                 = 'Send';
+	$lgTxt_place                          = '-- Choose --';
+
+	$txtEnter_field		    = 'This field is required to enter.';
+	$txtEnter_email		    = 'Invalid E-mail address.';
+	$txtEnter_tell		    = 'Invalid phone number.';
+	$txtEnter_number		= 'Invalid number.';

@@ -1,0 +1,103 @@
+<?php
+// Page
+	$lgTxt_lang                           = 'cn';
+	$lgTxt_social                         = '社交网络链接';
+	$lgTxt_social_face                    = 'Liên kết Facebook';
+	$lgTxt_update                         = '数据正在整修中......请稍后再回来！';
+    $lgTxt_error_page                     = '错误页面';
+    $lgTxt_page404                        = '请不要链接';
+    $lgTxt_page404_click                  = '点击';
+    $lgTxt_page404_back                   = 'to return';
+	$lgTxt_article_plus                   = 'Other article:';
+	$lgTxt_article_other                  = 'Same category:';
+	$lgTxt_service_other                  = 'Other services:';
+	$lgTxt_activities_other               = 'Other sectors:';
+	$lgTxt_news_other                     = 'Other news:';
+	$lgTxt_product_other                  = 'All Products';
+	$lgTxt_product_hot                    = 'Typical products';
+	$lgTxt_title_news_hot                 = 'Typical News';
+
+	$lgTxt_detail                           = '查看详情';
+	$lgTxt_detail_all                       = '查看全部';
+	$lgTxt_red_more                         = '阅读更多';
+	$lgTxt_post_date                        = '日期: ';
+	$lgTxt_post_views                       = '视图: ';
+
+
+    $lx_dac_biet                            = '精选';
+
+	$lgTxt_title_others1                    = 'Other projects';
+	$lgTxt_title_others2                    = '其他新闻';
+	$lgTxt_title_others3                    = '其他文章';
+	$lgTxt_title_others4                    = 'Other products';
+	$lgTxt_title_others5                    = '其他图片';
+
+	$lgTxt_unit_price                   = ' VND';
+	$lgTxt_add_cart                    = ' Order';
+	$lgTxt_slug_cart                      = 'order';
+	$lgTxt_menu_carts                     = 'Menu selected';
+	$lgTxt_menu_cart                      = 'Order';
+
+	$lgTxt_name_book                      = 'Book now';
+	$lgTxt_name_order                     = 'Order Delivery';
+	$lgTxt_name_delivery                  = 'Delivery';
+
+	$lgTxt_cart_img                      = 'Image';
+	$lgTxt_cart_product                  = 'Product';
+	$lgTxt_cart_unit                     = 'Unit price';
+	$lgTxt_cart_number                   = 'Number';
+	$lgTxt_cart_money                    = 'Money ';
+	$lgTxt_cart_cancel                   = 'Cancel';
+	$lgTxt_cart_contact                  = 'Contact ';
+	$lgTxt_cart_empty                    = 'Empty';
+	$lgTxt_cart_update                   = 'Update ';
+	$lgTxt_cart_continue                 = 'Continue';
+	$lgTxt_title_newspaper				 = 'Newspaper';
+	$lgTxt_title_typicaldt				 = 'CÔNG TRÌNH';
+	$lgTxt_title_pro				     = 'SẢN PHẨM';
+	$lgTxt_title_sear				     = 'KẾT QUẢ TÌM KIẾM';
+
+
+// Menu
+	$lgTxt_menu_home                      = '主页';
+	$lgTxt_menu_contact                   = '联系';
+	$lgTxt_slug_contact                   = 'contact';
+	$lgTxt_menu_search                    = '搜索';
+	$lgTxt_slug_search                    = 'tim-kiem';
+	$lgTxt_title_news                     = 'News - Events';
+
+
+	$lgTxt_title_search                     = '搜索';
+	$lgTxt_input_search                     = '搜索...';
+	$lgTxt_title_news_hot                   = 'Tin tức mới nhất';
+
+
+// Contact
+	$txtContact_titleForm   = 'Inquiries - Feedback';
+	$txtContact_name		= '全名';
+	$txtContact_address	    = '地址';
+	$txtContact_email		= '电子邮件';
+	$txtContact_fone		= '电话';
+	$txtContact_content	    = '请求';
+	$txtContact_reset_s	    = '抹去';
+	$txtContact_button_s	= '发送';
+	$txtContact_sendOk		= '您的要求已成功发送，我们会及时与您联系。';
+	$txtContact_sendDie	    = '无法从服务器端发送一些错误的邮件。';
+
+	$txtOrder_sendOk		= '由于您的请求已成功提交，我们会尽快与您联系。非常感谢你';
+
+//Booking
+	$lgTxt_title_book                     = '现在预订';
+	$lgTxt_booking_name		              = '全名';
+	$lgTxt_booking_email		          = 'E-mail';
+	$lgTxt_booking_fone		              = '电话';
+	$lgTxt_booking_quantity               = '人数';
+	$lgTxt_booking_begin                  = '日期设定';
+	$lgTxt_booking_time                  = '时间';
+	$lgTxt_booking_submit                 = '发送';
+	$lgTxt_place                          = '-- 选择 --';
+
+	$txtEnter_field		    = '此字段需要输入。';
+	$txtEnter_email		    = '无效的邮件地址。';
+	$txtEnter_tell		    = '无效的电话号码.';
+	$txtEnter_number		= '无效号码.';

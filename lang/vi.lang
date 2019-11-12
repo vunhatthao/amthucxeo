@@ -1,0 +1,102 @@
+<?php
+// Page
+	$lgTxt_lang                             = 'vi';
+	$lgTxt_social                           = 'FOLLOW US ON:';
+	$lgTxt_social_face                      = 'Liên kết Facebook';
+	$lgTxt_update                           = 'Dữ liệu đang được cập nhật...';
+	$lgTxt_prupdate                         = 'Sản phẩm đang được cập nhật...';
+	$lgTxt_error_page                       = 'Trang thông báo lỗi';
+	$lgTxt_page404                          = 'Liên kết không tồn tại, vui lòng';
+	$lgTxt_page404_click                    = 'bấm';
+	$lgTxt_page404_back                     = 'để quay lại';
+
+	$lgTxt_detail                           = 'Xem thêm';
+	$lgTxt_detail_all                       = 'Xem tất cả';
+	$lgTxt_red_more                         = 'Đọc tiếp';
+	$lgTxt_post_date                        = 'Đăng ngày: ';
+	$lgTxt_post_views                       = 'Lượt xem: ';
+
+	$lgTxt_title_others1                    = 'Các dự án khác';
+	$lgTxt_title_others2                    = 'Các tin khác';
+	$lgTxt_title_others3                    = 'Bài viết khác';
+	$lgTxt_title_others4                    = 'Sản phẩm khác';
+	$lgTxt_title_others5                    = 'Hình ảnh khác';
+
+    $lx_dac_biet                            = 'Nổi bật';
+
+	$lgTxt_unit_price                   = ' VNĐ';
+	$lgTxt_add_cart                    = ' Order';
+	$lgTxt_slug_cart                      = 'order';
+	$lgTxt_menu_carts                     = 'Thực đơn đã chọn';
+	$lgTxt_menu_cart                      = 'Đặt món';
+
+	$lgTxt_name_book                      = 'Đặt ngay';
+	$lgTxt_name_order                     = 'Đặt Giao Hàng';
+	$lgTxt_name_delivery                  = 'Giao hàng';
+
+	$lgTxt_cart_img                      = 'Hình ảnh';
+	$lgTxt_cart_product                  = 'Sản phẩm';
+	$lgTxt_cart_unit                     = 'Đơn giá';
+	$lgTxt_cart_number                   = 'Số lượng';
+	$lgTxt_cart_money                    = 'Thành tiền';
+	$lgTxt_cart_cancel                   = 'Hủy';
+	$lgTxt_cart_contact                  = 'Liên hệ';
+	$lgTxt_cart_empty                    = 'Giỏ hàng rỗng';
+	$lgTxt_cart_update                   = 'Cập nhật giỏ hàng';
+	$lgTxt_cart_continue                 = 'Tiếp tục mua hàng';
+	$lgTxt_title_newspaper				 = 'TIN TỨC';
+	$lgTxt_title_typicaldt				 = 'CÔNG TRÌNH';
+	$lgTxt_title_pro				     = 'SẢN PHẨM';
+	$lgTxt_title_sear				     = 'KẾT QUẢ TÌM KIẾM';
+
+	$lgTxt_tab_1                 = 'Mô tả';
+	$lgTxt_tab_2                 = 'Chi tiết';
+	$lgTxt_tab_3                 = 'Nhận xét';
+	$lgTxt_tab_4                 = 'Chi tiết';
+
+
+// Menu
+	$lgTxt_menu_home                        = 'Trang chủ';
+	$lgTxt_menu_about                       = 'Giới thiệu';
+	$lgTxt_menu_contact                     = 'Liên hệ';
+	$lgTxt_slug_contact                     = 'lien-he';
+
+	$lgTxt_title_search                     = 'Tìm kiếm';
+	$lgTxt_input_search                     = 'Tìm kiếm...';
+	$lgTxt_slug_search                      = 'tim-kiem';
+	$lgTxt_title_news_hot                   = 'Tin tức mới nhất';
+
+// Contact
+	$txtContact_titleForm                   = 'Thắc mắc - Góp ý';
+	$txtContact_name		                = 'Họ và tên: (*)';
+	$txtContact_address	                    = 'Địa chỉ:';
+	$txtContact_email		                = 'Email:  (*)';
+	$txtContact_fone		                = 'Số điện thoại: (*)';
+	$txtContact_content	                    = 'Nội dung liên hệ: (*)';
+	$txtContact_button_s	                = 'Gửi đi';
+	$txtContact_sendOk		                = 'Xin chân thành cảm ơn Quý khách đã quan tâm và sử dụng dịch vụ của chúng tôi!
+Yêu cầu của Quý khách đã gửi thành công. Chúng tôi sẽ phản hồi lại trong thời gian sớm nhất.
+Chân thành cảm ơn!';
+	$txtContact_sendDie	                    = 'Không thể gửi thư vì một vài lỗi từ phía máy chủ.';
+
+	$txtOrder_sendOk		                = 'Yêu cầu của bạn đã được gửi thành công, chúng tôi sẽ nhanh chóng liên hệ với bạn sớm nhất có thể. Chân thành cảm ơn!';
+
+//Booking
+	$lgTxt_title_book                     = 'BOOK NOW';
+	$lgTxt_booking_name		              = 'Nhập tên của bạn';
+	$lgTxt_booking_email		          = 'E-mail';
+	$lgTxt_booking_fone		              = 'Số điện thoại';
+	$lgTxt_booking_quantity               = 'Số lượng người';
+	$lgTxt_booking_begin                  = 'Ngày đặt bàn';
+	$lgTxt_booking_time                  = 'Thời gian';
+	$lgTxt_booking_submit                 = 'Gửi đi';
+	$lgTxt_place                          = '-- Chọn --';
+    $txtEnter_field		                    = 'Vui lòng nhập.';
+    $txtEnter_email		                    = 'Địa chỉ Email không hợp lệ.';
+    $txtEnter_tell		                    = 'Số điện thoại không hợp lệ.';
+	$txtEnter_number		                = 'Số không hợp lệ.';
+
+	$lgTxt_register_mail_input              = 'Đăng ký email nhận bản tin...';
+	$lgTxt_register_mail_submit             = 'Đăng ký <i class="fa fa-long-arrow-right fa-fw"></i>';
+	$txtEmail_sendOk		                = 'Đăng ký email nhận tin nhận bản tin của bạn đã được xử lý thành công.';
+	$txtEmail_sendDie	                    = 'Không thể thực hiện vì một vài lỗi từ phía máy chủ.';
